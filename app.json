@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "first_react",
+    "slug": "first_react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
